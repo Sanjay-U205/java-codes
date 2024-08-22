@@ -19,7 +19,7 @@ class Arrays{
     }
 }
 //the following code shoes the different ways that an array can be declared and initailized
-public classic ArrayDefinitionDemo{
+public class ArrayDefinitionDemo{
     public static void main(String args[]){
         float x[];
         x = new float[100];
